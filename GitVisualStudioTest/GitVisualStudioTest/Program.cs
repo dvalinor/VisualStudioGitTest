@@ -6,6 +6,7 @@ namespace GitVisualStudioTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GitHub Repository");
         }
     }
 }
